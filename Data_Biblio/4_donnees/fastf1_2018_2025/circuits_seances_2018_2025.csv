@@ -1,0 +1,174 @@
+saison;manche;gp;CircuitKey;CircuitName;Location;CountryName;Rotation;PitLossNormal;PitLossSC;PitLossVSC;LayoutYear;LayoutRound;LayoutLapSession;LayoutLapTime;nb_virages;nb_secteurs_commissaires;nb_points_trace
+2018;1;Australian Grand Prix;10;Melbourne;Melbourne;Australia;44.0;20.81;13.19;15.05;2019;1;FP1;87.216;14;20;657
+2018;2;Bahrain Grand Prix;63;Sakhir;Sakhir;Bahrain;92.0;23.96;15.18;17.33;2019;2;FP1;94.155;15;18;716
+2018;3;Chinese Grand Prix;49;Shanghai;Shanghai;China;237.0;23.09;14.63;16.7;2018;3;FP1;97.221;16;20;344
+2018;4;Azerbaijan Grand Prix;144;Baku;Baku;Azerbaijan;357.0;21.8;13.81;15.77;2019;4;FP3;107.54;20;21;819
+2018;5;Spanish Grand Prix;15;Catalunya;Barcelona;Spain;303.0;23.17;14.68;16.76;2019;5;FP1;81.168;16;17;608
+2018;6;Monaco Grand Prix;22;Monte Carlo;Monte Carlo;Monaco;315.0;18.94;12.0;13.7;2019;6;FP1;79.048;19;19;601
+2018;7;Canadian Grand Prix;23;Montreal;Montréal;Canada;62.0;20.12;12.75;14.56;2019;7;FP1;77.091;14;15;580
+2018;8;French Grand Prix;28;Paul Ricard;Le Castellet;France;0.0;23.48;14.88;16.99;2019;8;FP1;97.335;15;19;729
+2018;9;Austrian Grand Prix;19;Spielberg;Spielberg;Austria;1.0;21.26;13.47;15.38;2019;9;FP1;67.263;10;16;506
+2018;10;British Grand Prix;2;Silverstone;Silverstone;Great Britain;92.0;20.93;13.26;15.14;2019;10;FP1;103.992;18;16;825
+2018;11;German Grand Prix;34;Hockenheim;Hockenheim;Germany;0.0;;;;2019;11;FP1;77.084;17;14;580
+2018;12;Hungarian Grand Prix;4;Hungaroring;Budapest;Hungary;40.0;21.16;13.41;15.31;2018;12;FP3;79.888;16;19;599
+2018;13;Belgian Grand Prix;7;Spa-Francorchamps;Spa-Francorchamps;Belgium;91.0;19.07;12.08;13.8;2018;13;FP1;108.612;19;19;817
+2018;14;Italian Grand Prix;39;Monza;Monza;Italy;95.0;25.43;16.11;18.4;2018;14;FP1;99.264;11;17;749
+2018;15;Singapore Grand Prix;61;Singapore;Singapore;Singapore;335.0;27.6;17.49;19.97;2018;15;FP1;108.025;23;18;808
+2018;16;Russian Grand Prix;79;Sochi;Sochi;Russia;324.0;26.74;16.94;19.34;2018;16;FP1;100.121;18;20;752
+2018;17;Japanese Grand Prix;46;Suzuka;Suzuka;Japan;0.0;22.8;14.45;16.49;2018;17;FP1;90.651;18;20;680
+2018;18;United States Grand Prix;9;Austin;Austin;United States;0.0;20.98;13.29;15.18;2018;18;FP1;115.266;20;20;861
+2018;19;Mexican Grand Prix;65;Mexico City;Mexico City;Mexico;36.0;22.89;14.5;16.56;2018;19;FP2;80.627;17;16;614
+2018;20;Brazilian Grand Prix;14;Interlagos;São Paulo;Brazil;258.0;21.99;13.93;15.91;2018;20;FP1;72.112;15;16;541
+2018;21;Abu Dhabi Grand Prix;70;Yas Marina Circuit;Yas Marina;United Arab Emirates;280.0;22.72;14.4;16.44;2018;21;FP1;102.114;21;20;736
+2019;1;Australian Grand Prix;10;Melbourne;Melbourne;Australia;44.0;20.81;13.19;15.05;2019;1;FP1;87.216;14;20;657
+2019;2;Bahrain Grand Prix;63;Sakhir;Sakhir;Bahrain;92.0;23.96;15.18;17.33;2019;2;FP1;94.155;15;18;716
+2019;3;Chinese Grand Prix;49;Shanghai;Shanghai;China;237.0;23.09;14.63;16.7;2019;3;FP1;97.221;16;20;737
+2019;4;Azerbaijan Grand Prix;144;Baku;Baku;Azerbaijan;357.0;21.8;13.81;15.77;2019;4;FP3;107.54;20;21;819
+2019;5;Spanish Grand Prix;15;Catalunya;Barcelona;Spain;303.0;23.17;14.68;16.76;2019;5;FP1;81.168;16;17;608
+2019;6;Monaco Grand Prix;22;Monte Carlo;Monte Carlo;Monaco;315.0;18.94;12.0;13.7;2019;6;FP1;79.048;19;19;601
+2019;7;Canadian Grand Prix;23;Montreal;Montréal;Canada;62.0;20.12;12.75;14.56;2019;7;FP1;77.091;14;15;580
+2019;8;French Grand Prix;28;Paul Ricard;Le Castellet;France;0.0;23.48;14.88;16.99;2019;8;FP1;97.335;15;19;729
+2019;9;Austrian Grand Prix;19;Spielberg;Spielberg;Austria;1.0;21.26;13.47;15.38;2019;9;FP1;67.263;10;16;506
+2019;10;British Grand Prix;2;Silverstone;Silverstone;Great Britain;92.0;20.93;13.26;15.14;2019;10;FP1;103.992;18;16;825
+2019;11;German Grand Prix;34;Hockenheim;Hockenheim;Germany;0.0;;;;2019;11;FP1;77.084;17;14;580
+2019;12;Hungarian Grand Prix;4;Hungaroring;Budapest;Hungary;40.0;21.16;13.41;15.31;2019;12;FP1;80.527;16;19;613
+2019;13;Belgian Grand Prix;7;Spa-Francorchamps;Spa-Francorchamps;Belgium;91.0;19.07;12.08;13.8;2019;13;FP1;106.79;19;19;799
+2019;14;Italian Grand Prix;39;Monza;Monza;Italy;95.0;25.43;16.11;18.4;2019;14;FP1;98.365;11;17;735
+2019;15;Singapore Grand Prix;61;Singapore;Singapore;Singapore;335.0;27.6;17.49;19.97;2019;15;FP1;104.593;23;18;785
+2019;16;Russian Grand Prix;79;Sochi;Sochi;Russia;324.0;26.74;16.94;19.34;2019;16;FP1;97.605;18;20;731
+2019;17;Japanese Grand Prix;46;Suzuka;Suzuka;Japan;49.0;22.8;14.45;16.49;2019;17;FP1;117.308;18;20;869
+2019;18;Mexican Grand Prix;65;Mexico City;Mexico City;Mexico;36.0;22.89;14.5;16.56;2019;18;FP2;81.075;17;16;606
+2019;19;United States Grand Prix;9;Austin;Austin;United States;0.0;20.98;13.29;15.18;2019;19;FP1;97.768;20;20;744
+2019;20;Brazilian Grand Prix;14;Interlagos;São Paulo;Brazil;258.0;21.99;13.93;15.91;2019;20;FP2;72.704;15;16;549
+2019;21;Abu Dhabi Grand Prix;70;Yas Marina Circuit;Yas Island;United Arab Emirates;280.0;22.72;14.4;16.44;2019;21;FP1;101.841;21;20;762
+2020;1;Austrian Grand Prix;19;Spielberg;Spielberg;Austria;1.0;21.26;13.47;15.38;2020;2;FP1;67.398;10;16;587
+2020;2;Styrian Grand Prix;19;Spielberg;Spielberg;Austria;1.0;21.26;13.47;15.38;2020;2;FP1;67.398;10;16;587
+2020;3;Hungarian Grand Prix;4;Hungaroring;Budapest;Hungary;40.0;21.16;13.41;15.31;2020;3;FP2;106.0;16;19;924
+2020;4;British Grand Prix;2;Silverstone;Silverstone;Great Britain;92.0;20.93;13.26;15.14;2020;5;FP1;91.407;18;16;796
+2020;5;70th Anniversary Grand Prix;2;Silverstone;Silverstone;Great Britain;92.0;20.93;13.26;15.14;2020;5;FP1;91.407;18;16;796
+2020;6;Spanish Grand Prix;15;Catalunya;Barcelona;Spain;303.0;23.17;14.68;16.76;2020;6;FP1;79.794;16;17;695
+2020;7;Belgian Grand Prix;7;Spa-Francorchamps;Spa-Francorchamps;Belgium;91.0;19.07;12.08;13.8;2020;7;FP1;107.643;19;19;936
+2020;8;Italian Grand Prix;39;Monza;Monza;Italy;95.0;25.43;16.11;18.4;2020;8;FP1;83.654;11;17;726
+2020;9;Tuscan Grand Prix;;;;;273.0;;;;;;;;0;0;0
+2020;10;Russian Grand Prix;79;Sochi;Sochi;Russia;324.0;26.74;16.94;19.34;2020;10;FP1;98.246;18;20;854
+2020;11;Eifel Grand Prix;72;Nürburgring;Nürburgring;Germany;327.0;;;;2020;11;Q;87.434;15;18;759
+2020;12;Portuguese Grand Prix;147;Algarve International Circuit;Portimão;Portugal;74.0;27.08;17.16;19.59;2020;12;FP1;87.231;15;19;755
+2020;13;Emilia Romagna Grand Prix;6;Imola;Imola;Italy;0.0;28.01;17.75;20.26;2020;13;Q;76.056;19;19;660
+2020;14;Turkish Grand Prix;59;Istanbul;Istanbul;Turkey;336.0;;;;2020;14;FP1;114.909;14;20;998
+2020;15;Bahrain Grand Prix;63;Sakhir;Sakhir;Bahrain;92.0;23.96;15.18;17.33;2020;15;Q;89.872;15;18;763
+2020;16;Sakhir Grand Prix;148;Sakhir Outer Track;Sakhir;Bahrain;92.0;;;;2020;16;FP1;55.845;0;0;486
+2020;17;Abu Dhabi Grand Prix;70;Yas Marina Circuit;Yas Island;United Arab Emirates;280.0;22.72;14.4;16.44;2020;17;FP1;105.431;21;20;898
+2021;1;Bahrain Grand Prix;;;;;92.0;;;;;;;;15;0;0
+2021;2;Emilia Romagna Grand Prix;;;;;0.0;;;;;;;;19;0;0
+2021;3;Portuguese Grand Prix;;;;;74.0;;;;;;;;15;0;0
+2021;4;Spanish Grand Prix;;;;;303.0;;;;;;;;16;0;0
+2021;5;Monaco Grand Prix;;;;;315.0;;;;;;;;19;0;0
+2021;6;Azerbaijan Grand Prix;;;;;357.0;;;;;;;;20;0;0
+2021;7;French Grand Prix;;;;;0.0;;;;;;;;15;0;0
+2021;8;Styrian Grand Prix;;;;;1.0;;;;;;;;10;0;0
+2021;9;Austrian Grand Prix;;;;;1.0;;;;;;;;10;0;0
+2021;10;British Grand Prix;;;;;92.0;;;;;;;;18;0;0
+2021;11;Hungarian Grand Prix;;;;;40.0;;;;;;;;16;0;0
+2021;12;Belgian Grand Prix;;;;;91.0;;;;;;;;19;0;0
+2021;13;Dutch Grand Prix;;;;;0.0;;;;;;;;14;0;0
+2021;14;Italian Grand Prix;;;;;95.0;;;;;;;;11;0;0
+2021;15;Russian Grand Prix;;;;;324.0;;;;;;;;18;0;0
+2021;16;Turkish Grand Prix;;;;;336.0;;;;;;;;14;0;0
+2021;17;United States Grand Prix;;;;;0.0;;;;;;;;20;0;0
+2021;18;Mexico City Grand Prix;;;;;36.0;;;;;;;;17;0;0
+2021;19;São Paulo Grand Prix;;;;;258.0;;;;;;;;15;0;0
+2021;20;Qatar Grand Prix;;;;;61.0;;;;;;;;16;0;0
+2021;21;Saudi Arabian Grand Prix;;;;;104.0;;;;;;;;27;0;0
+2021;22;Abu Dhabi Grand Prix;;;;;280.0;;;;;;;;16;0;0
+2022;1;Bahrain Grand Prix;;;;;92.0;;;;;;;;15;0;0
+2022;2;Saudi Arabian Grand Prix;;;;;104.0;;;;;;;;27;0;0
+2022;3;Australian Grand Prix;;;;;44.0;;;;;;;;14;0;0
+2022;4;Emilia Romagna Grand Prix;;;;;0.0;;;;;;;;19;0;0
+2022;5;Miami Grand Prix;;;;;2.0;;;;;;;;19;0;0
+2022;6;Spanish Grand Prix;;;;;303.0;;;;;;;;16;0;0
+2022;7;Monaco Grand Prix;;;;;315.0;;;;;;;;19;0;0
+2022;8;Azerbaijan Grand Prix;;;;;357.0;;;;;;;;20;0;0
+2022;9;Canadian Grand Prix;;;;;62.0;;;;;;;;14;0;0
+2022;10;British Grand Prix;;;;;92.0;;;;;;;;18;0;0
+2022;11;Austrian Grand Prix;;;;;1.0;;;;;;;;10;0;0
+2022;12;French Grand Prix;;;;;0.0;;;;;;;;15;0;0
+2022;13;Hungarian Grand Prix;;;;;40.0;;;;;;;;16;0;0
+2022;14;Belgian Grand Prix;;;;;91.0;;;;;;;;19;0;0
+2022;15;Dutch Grand Prix;;;;;0.0;;;;;;;;14;0;0
+2022;16;Italian Grand Prix;;;;;95.0;;;;;;;;11;0;0
+2022;17;Singapore Grand Prix;;;;;335.0;;;;;;;;19;0;0
+2022;18;Japanese Grand Prix;;;;;49.0;;;;;;;;18;0;0
+2022;19;United States Grand Prix;;;;;0.0;;;;;;;;20;0;0
+2022;20;Mexico City Grand Prix;;;;;36.0;;;;;;;;17;0;0
+2022;21;São Paulo Grand Prix;;;;;258.0;;;;;;;;15;0;0
+2022;22;Abu Dhabi Grand Prix;;;;;280.0;;;;;;;;16;0;0
+2023;1;Bahrain Grand Prix;;;;;92.0;;;;;;;;15;0;0
+2023;2;Saudi Arabian Grand Prix;;;;;104.0;;;;;;;;27;0;0
+2023;3;Australian Grand Prix;;;;;44.0;;;;;;;;14;0;0
+2023;4;Azerbaijan Grand Prix;;;;;357.0;;;;;;;;20;0;0
+2023;5;Miami Grand Prix;;;;;2.0;;;;;;;;19;0;0
+2023;6;Monaco Grand Prix;;;;;315.0;;;;;;;;19;0;0
+2023;7;Spanish Grand Prix;;;;;303.0;;;;;;;;14;0;0
+2023;8;Canadian Grand Prix;;;;;62.0;;;;;;;;14;0;0
+2023;9;Austrian Grand Prix;;;;;1.0;;;;;;;;10;0;0
+2023;10;British Grand Prix;;;;;92.0;;;;;;;;18;0;0
+2023;11;Hungarian Grand Prix;;;;;40.0;;;;;;;;16;0;0
+2023;12;Belgian Grand Prix;;;;;91.0;;;;;;;;19;0;0
+2023;13;Dutch Grand Prix;;;;;0.0;;;;;;;;14;0;0
+2023;14;Italian Grand Prix;;;;;95.0;;;;;;;;11;0;0
+2023;15;Singapore Grand Prix;;;;;335.0;;;;;;;;19;0;0
+2023;16;Japanese Grand Prix;;;;;49.0;;;;;;;;18;0;0
+2023;17;Qatar Grand Prix;;;;;61.0;;;;;;;;16;0;0
+2023;18;United States Grand Prix;;;;;0.0;;;;;;;;20;0;0
+2023;19;Mexico City Grand Prix;;;;;36.0;;;;;;;;17;0;0
+2023;20;São Paulo Grand Prix;;;;;258.0;;;;;;;;15;0;0
+2023;21;Las Vegas Grand Prix;;;;;90.0;;;;;;;;17;0;0
+2023;22;Abu Dhabi Grand Prix;;;;;280.0;;;;;;;;16;0;0
+2024;1;Bahrain Grand Prix;;;;;92.0;;;;;;;;15;0;0
+2024;2;Saudi Arabian Grand Prix;;;;;104.0;;;;;;;;27;0;0
+2024;3;Australian Grand Prix;;;;;44.0;;;;;;;;14;0;0
+2024;4;Japanese Grand Prix;;;;;49.0;;;;;;;;18;0;0
+2024;5;Chinese Grand Prix;;;;;237.0;;;;;;;;16;0;0
+2024;6;Miami Grand Prix;;;;;2.0;;;;;;;;19;0;0
+2024;7;Emilia Romagna Grand Prix;;;;;0.0;;;;;;;;19;0;0
+2024;8;Monaco Grand Prix;;;;;315.0;;;;;;;;19;0;0
+2024;9;Canadian Grand Prix;;;;;62.0;;;;;;;;14;0;0
+2024;10;Spanish Grand Prix;;;;;303.0;;;;;;;;14;0;0
+2024;11;Austrian Grand Prix;;;;;1.0;;;;;;;;10;0;0
+2024;12;British Grand Prix;;;;;92.0;;;;;;;;18;0;0
+2024;13;Hungarian Grand Prix;;;;;40.0;;;;;;;;16;0;0
+2024;14;Belgian Grand Prix;;;;;91.0;;;;;;;;19;0;0
+2024;15;Dutch Grand Prix;;;;;0.0;;;;;;;;14;0;0
+2024;16;Italian Grand Prix;;;;;95.0;;;;;;;;11;0;0
+2024;17;Azerbaijan Grand Prix;;;;;357.0;;;;;;;;20;0;0
+2024;18;Singapore Grand Prix;;;;;335.0;;;;;;;;19;0;0
+2024;19;United States Grand Prix;;;;;0.0;;;;;;;;20;0;0
+2024;20;Mexico City Grand Prix;;;;;36.0;;;;;;;;17;0;0
+2024;21;São Paulo Grand Prix;;;;;258.0;;;;;;;;15;0;0
+2024;22;Las Vegas Grand Prix;;;;;90.0;;;;;;;;17;0;0
+2024;23;Qatar Grand Prix;;;;;61.0;;;;;;;;16;0;0
+2024;24;Abu Dhabi Grand Prix;;;;;280.0;;;;;;;;16;0;0
+2025;1;Australian Grand Prix;10;Melbourne;Melbourne;Australia;44.0;20.81;13.19;15.05;2022;3;FP1;83.101;14;20;618
+2025;2;Chinese Grand Prix;49;Shanghai;Shanghai;China;237.0;23.09;14.63;16.7;2019;3;FP1;97.221;16;20;737
+2025;3;Japanese Grand Prix;46;Suzuka;Suzuka;Japan;49.0;22.8;14.45;16.49;2025;3;Practice 1;89.69;18;22;335
+2025;4;Bahrain Grand Prix;63;Sakhir;Sakhir;Bahrain;92.0;23.96;15.18;17.33;2022;1;FP1;97.766;15;18;730
+2025;5;Saudi Arabian Grand Prix;149;Jeddah;Jeddah;Saudi Arabia;104.0;21.16;13.41;15.31;2022;2;FP1;94.167;27;21;721
+2025;6;Miami Grand Prix;151;Miami;Miami;United States;2.0;20.27;12.84;14.66;2022;5;FP1;96.099;19;20;757
+2025;7;Emilia Romagna Grand Prix;6;Imola;Imola;Italy;0.0;28.01;17.75;20.26;2022;4;FP1;99.595;19;19;766
+2025;8;Monaco Grand Prix;22;Monte Carlo;Monaco;Monaco;315.0;18.94;12.0;13.7;2022;7;FP1;90.304;19;19;683
+2025;9;Spanish Grand Prix;15;Catalunya;Barcelona;Spain;303.0;23.17;14.68;16.76;2023;8;HSTT;114.551;14;16;442
+2025;10;Canadian Grand Prix;23;Montreal;Montréal;Canada;62.0;20.12;12.75;14.56;2022;9;FP1;77.991;14;15;614
+2025;11;Austrian Grand Prix;19;Spielberg;Spielberg;Austria;1.0;21.26;13.47;15.38;2022;11;FP1;68.656;10;16;539
+2025;12;British Grand Prix;2;Silverstone;Silverstone;Great Britain;92.0;20.93;13.26;15.14;2022;10;FP1;119.168;18;16;916
+2025;13;Belgian Grand Prix;7;Spa-Francorchamps;Spa-Francorchamps;Belgium;91.0;19.07;12.08;13.8;2021;12;FP1;114.004;19;21;1005
+2025;14;Hungarian Grand Prix;4;Hungaroring;Budapest;Hungary;40.0;21.16;13.41;15.31;2021;11;FP1;81.317;16;19;711
+2025;15;Dutch Grand Prix;55;Zandvoort;Zandvoort;Netherlands;0.0;22.74;14.41;16.45;2021;13;FP1;75.731;14;19;664
+2025;16;Italian Grand Prix;39;Monza;Monza;Italy;95.0;25.43;16.11;18.4;2021;14;FP1;85.995;11;17;752
+2025;17;Azerbaijan Grand Prix;144;Baku;Baku;Azerbaijan;357.0;21.8;13.81;15.77;2022;8;FP1;108.574;20;21;837
+2025;18;Singapore Grand Prix;61;Singapore;Singapore;Singapore;335.0;27.6;17.49;19.97;2023;16;HSTT;144.142;19;16;544
+2025;19;United States Grand Prix;9;Austin;Austin;United States;0.0;20.98;13.29;15.18;2021;17;FP1;97.856;20;20;853
+2025;20;Mexico City Grand Prix;65;Mexico City;Mexico City;Mexico;36.0;22.89;14.5;16.56;2021;18;FP1;82.748;17;16;721
+2025;21;São Paulo Grand Prix;14;Interlagos;São Paulo;Brazil;258.0;21.99;13.93;15.91;2023;19;FP1;76.148;15;16;283
+2025;22;Las Vegas Grand Prix;152;Las Vegas;Las Vegas;United States;90.0;23.14;14.66;16.74;2023;3;HSTT;0.0;17;21;591
+2025;23;Qatar Grand Prix;150;Losail;Lusail;Qatar;61.0;27.49;17.42;19.89;2023;20;FP1;118.862;16;20;550
+2025;24;Abu Dhabi Grand Prix;70;Yas Marina Circuit;Yas Island;United Arab Emirates;280.0;22.72;14.4;16.44;2021;22;FP1;88.786;16;20;771

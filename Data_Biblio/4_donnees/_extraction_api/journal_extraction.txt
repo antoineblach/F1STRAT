@@ -1,0 +1,34 @@
+2026-10-21 16:14:31 début (TEST) ; sorties dans C:\Users\Antoine Blachere\Desktop\projet sratf1\Data_Biblio\4_donnees
+2026-10-21 16:14:31 === OpenF1 ===
+2026-10-21 16:14:36 écrit : sessions_course_2023_2025.csv (1 lignes)
+2026-10-21 16:14:36 écrit : arrets_2023_2025.csv (28 lignes)
+2026-10-21 16:14:36 écrit : depassements_2023_2025.csv (243 lignes)
+2026-10-21 16:14:36 OpenF1 : 1 courses, 28 arrêts (dont 28 avec immobilisation), 243 dépassements
+2026-10-21 16:14:36 === Open-Meteo : météo horaire des week-ends 2014 à 2025 ===
+2026-10-21 16:14:37 écrit : meteo_week_ends_2014_2025.csv (96 lignes)
+2026-10-21 16:14:37 === Open-Meteo : climatologie 2005 à 2024 autour des GP 2023 à 2025 ===
+2026-10-21 16:14:38 écrit : climatologie_gp_2005_2024.csv (15 lignes)
+2026-10-21 16:14:38 === Open-Meteo : prévisions archivées (1 à 7 jours avant) 2024 à 2025 ===
+2026-10-21 16:14:39 écrit : previsions_week_ends_2024_2025.csv (72 lignes)
+2026-10-21 16:14:39 fin
+2026-10-21 16:15:43 début (complet) ; sorties dans C:\Users\Antoine Blachere\Desktop\projet sratf1\Data_Biblio\4_donnees
+2026-10-21 16:15:43 === OpenF1 ===
+2026-10-21 16:15:48 404 (aucune donnée) https://api.openf1.org/v1/pit?session_key=7953
+2026-10-21 16:15:52 404 (aucune donnée) https://api.openf1.org/v1/pit?session_key=7779
+2026-10-21 16:15:56 404 (aucune donnée) https://api.openf1.org/v1/pit?session_key=7787
+2026-10-21 16:16:01 404 (aucune donnée) https://api.openf1.org/v1/pit?session_key=9070
+2026-10-21 16:16:05 404 (aucune donnée) https://api.openf1.org/v1/pit?session_key=9078
+2026-10-21 16:16:10 404 (aucune donnée) https://api.openf1.org/v1/pit?session_key=9094
+2026-10-21 16:20:49 écrit : sessions_course_2023_2025.csv (70 lignes)
+2026-10-21 16:20:49 écrit : arrets_2023_2025.csv (2339 lignes)
+2026-10-21 16:20:49 écrit : depassements_2023_2025.csv (17589 lignes)
+2026-10-21 16:20:49 OpenF1 : 70 courses, 2339 arrêts (dont 851 avec immobilisation), 17589 dépassements
+2026-10-21 16:20:49 === Open-Meteo : météo horaire des week-ends 2014 à 2025 ===
+2026-10-21 16:23:46 écrit : meteo_week_ends_2014_2025.csv (23040 lignes)
+2026-10-21 16:23:46 === Open-Meteo : climatologie 2005 à 2024 autour des GP 2023 à 2025 ===
+2026-10-21 16:27:37 ERREUR URLError essai 1/5 : <urlopen error [WinError 10054] Une connexion existante a dû être fermée par l’hôte distant> : https://archive-api.open-meteo.com/v1/archive?latitude=34.843056&longitude=136.540556&start_date=2016-09-17&end_date=2016-10-01&daily=precipitation_sum%2Cprecipitation_hours%2Ctemperature_2m_max%2Ctemperature_2m_min&timezone=auto
+2026-10-21 16:28:03 ERREUR URLError essai 2/5 : <urlopen error [WinError 10054] Une connexion existante a dû être fermée par l’hôte distant> : https://archive-api.open-meteo.com/v1/archive?latitude=34.843056&longitude=136.540556&start_date=2016-09-17&end_date=2016-10-01&daily=precipitation_sum%2Cprecipitation_hours%2Ctemperature_2m_max%2Ctemperature_2m_min&timezone=auto
+2026-10-21 16:40:59 écrit : climatologie_gp_2005_2024.csv (21000 lignes)
+2026-10-21 16:40:59 === Open-Meteo : prévisions archivées (1 à 7 jours avant) 2024 à 2025 ===
+2026-10-21 16:41:36 écrit : previsions_week_ends_2024_2025.csv (3456 lignes)
+2026-10-21 16:41:36 fin

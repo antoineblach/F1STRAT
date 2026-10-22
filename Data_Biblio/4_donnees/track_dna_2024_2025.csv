@@ -1,0 +1,49 @@
+season;round;name;short;traction;asphalt_grip;abrasion;track_evolution;tyre_stress;braking;lateral_load;downforce;site_column;correction
+2024;1;Bahrain Grand Prix;Sakhir;3;4;4;3;4;3;3;3;Bahrain Grand Prix;
+2024;2;Saudi Arabian Grand Prix;Jeddah;2;4;2;4;3;3;4;3;Saudi Arabian Grand Prix;
+2024;3;Australian Grand Prix;Melbourne;3;3;3;4;3;4;3;3;Australian Grand Prix;
+2024;4;Japanese Grand Prix;Suzuka;3;4;4;3;5;4;5;4;Japanese Grand Prix;
+2024;5;Chinese Grand Prix;Shanghai;3;3;2;4;3;3;3;3;Chinese Grand Prix;
+2024;6;Miami Grand Prix;Miami;3;2;3;4;3;4;3;3;Miami Grand Prix;
+2024;7;Emilia Romagna Grand Prix;Imola;3;4;4;3;4;3;4;4;Emilia Romagna Grand Prix;
+2024;8;Monaco Grand Prix;Monte Carlo;5;2;1;5;1;4;1;5;Monaco Grand Prix;
+2024;9;Canadian Grand Prix;Montreal;3;2;3;4;3;4;3;3;Canadian Grand Prix;
+2024;10;Spanish Grand Prix;Catalunya;3;4;4;3;5;4;5;5;Spanish Grand Prix;
+2024;11;Austrian Grand Prix;Spielberg;4;3;3;3;3;4;3;3;Austrian Grand Prix;
+2024;12;British Grand Prix;Silverstone;3;4;4;3;5;3;5;4;British Grand Prix;
+2024;13;Hungarian Grand Prix;Hungaroring;4;3;3;3;3;3;3;3;Hungarian Grand Prix;
+2024;14;Belgian Grand Prix;Spa-Francorchamps;2;4;3;2;4;3;4;4;Belgian Grand Prix;
+2024;15;Dutch Grand Prix;Zandvoort;3;4;4;3;5;4;5;4;Dutch Grand Prix;
+2024;16;Italian Grand Prix;Monza;2;4;2;3;3;3;3;3;Italian Grand Prix;
+2024;17;Azerbaijan Grand Prix;Baku;3;3;3;5;3;4;3;3;Azerbaijan Grand Prix;
+2024;18;Singapore Grand Prix;Singapore;3;2;3;4;3;4;3;3;Singapore Grand Prix;
+2024;19;United States Grand Prix;Austin;3;4;4;3;5;4;5;4;United States Grand Prix;
+2024;20;Mexico City Grand Prix;Mexico City;3;3;2;4;3;4;3;3;Mexico City Grand Prix;
+2024;21;São Paulo Grand Prix;Interlagos;4;3;3;3;3;3;3;3;São Paulo Grand Prix;
+2024;22;Las Vegas Grand Prix;Las Vegas;3;2;2;5;2;3;2;2;Las Vegas Grand Prix;
+2024;23;Qatar Grand Prix;Lusail;3;3;4;3;5;4;5;4;Qatar Grand Prix;
+2024;24;Abu Dhabi Grand Prix;Yas Marina;3;3;2;4;3;3;3;3;Abu Dhabi Grand Prix;
+2025;1;Australian Grand Prix;Melbourne;2;2;3;3;3;2;3;3;Australian Grand Prix;
+2025;2;Chinese Grand Prix;Shanghai;3;3;3;5;4;4;4;3;Chinese Grand Prix;
+2025;3;Japanese Grand Prix;Suzuka;3;4;4;3;5;2;5;4;Japanese Grand Prix;
+2025;4;Bahrain Grand Prix;Sakhir;4;3;5;4;3;3;3;3;Bahrain Grand Prix;
+2025;5;Saudi Arabian Grand Prix;Jeddah;2;2;2;4;3;3;4;2;Saudi Arabian Grand Prix;
+2025;6;Miami Grand Prix;Miami;3;4;2;5;3;3;3;3;Miami Grand Prix;
+2025;7;Emilia Romagna Grand Prix;Imola;2;2;2;2;3;3;3;3;Emilia Romagna Grand Prix;
+2025;8;Monaco Grand Prix;Monte Carlo;5;2;1;5;1;2;1;5;Monaco Grand Prix;
+2025;9;Spanish Grand Prix;Catalunya;3;3;4;3;5;3;5;4;Canadian Grand Prix;valeurs de la colonne Canadian Grand Prix du site (permutation suspectée)
+2025;10;Canadian Grand Prix;Montreal;3;2;1;5;3;5;1;1;Spanish Grand Prix;valeurs de la colonne Spanish Grand Prix du site (permutation suspectée)
+2025;11;Austrian Grand Prix;Spielberg;2;3;3;3;3;3;3;3;Austrian Grand Prix;
+2025;12;British Grand Prix;Silverstone;3;4;2;2;5;2;5;4;British Grand Prix;
+2025;13;Belgian Grand Prix;Spa-Francorchamps;4;3;3;3;5;4;5;2;Hungarian Grand Prix;valeurs de la colonne Hungarian Grand Prix du site (permutation suspectée)
+2025;14;Hungarian Grand Prix;Hungaroring;4;3;3;4;3;3;3;5;Belgian Grand Prix;valeurs de la colonne Belgian Grand Prix du site (permutation suspectée)
+2025;15;Dutch Grand Prix;Zandvoort;3;3;3;4;5;3;4;4;Dutch Grand Prix;
+2025;16;Italian Grand Prix;Monza;3;3;2;4;3;4;2;1;Italian Grand Prix;
+2025;17;Azerbaijan Grand Prix;Baku;5;2;1;5;3;4;1;2;Azerbaijan Grand Prix;
+2025;18;Singapore Grand Prix;Singapore;4;3;3;5;2;5;2;5;Singapore Grand Prix;
+2025;19;United States Grand Prix;Austin;4;3;3;4;4;3;4;4;United States Grand Prix;
+2025;20;Mexico City Grand Prix;Mexico City;3;2;2;5;2;3;2;5;Mexico City Grand Prix;
+2025;21;São Paulo Grand Prix;Interlagos;3;3;2;5;3;3;3;4;São Paulo Grand Prix;
+2025;22;Las Vegas Grand Prix;Las Vegas;2;1;2;5;4;3;2;1;Las Vegas Grand Prix;
+2025;23;Qatar Grand Prix;Lusail;3;4;2;4;5;3;5;4;Qatar Grand Prix;
+2025;24;Abu Dhabi Grand Prix;Yas Marina;4;3;3;4;3;4;3;3;Abu Dhabi Grand Prix;

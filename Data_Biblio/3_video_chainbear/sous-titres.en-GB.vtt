@@ -1,0 +1,808 @@
+WEBVTT
+Kind: captions
+Language: en-GB
+
+00:00:00.480 --> 00:00:04.480
+Strategy is an important part of a&nbsp;
+Formula 1 race and lord knows I bang
+
+00:00:04.480 --> 00:00:08.240
+on about it enough so I started thinking&nbsp;
+about visual ways of understanding race
+
+00:00:08.240 --> 00:00:12.000
+strategies that might be worth sharing.
+So that’s what I’m going to do here. And
+
+00:00:12.000 --> 00:00:16.720
+to do so, I’m going to really simplify things&nbsp;
+down because we don’t need to rush straight
+
+00:00:16.720 --> 00:00:20.880
+into 60 lap races with complicated statistical&nbsp;
+models of tyre behaviour and all that. We can
+
+00:00:20.880 --> 00:00:25.840
+pare that all down and use little squares.
+And when I say start simple, I mean it. This
+
+00:00:25.840 --> 00:00:32.000
+is a model, so let’s imagine a ten lap,&nbsp;
+dry race. Like F1, to complete this race
+
+00:00:32.000 --> 00:00:35.600
+you have to use two compounds of tyres&nbsp;
+and we’re keeping it simple so let’s
+
+00:00:35.600 --> 00:00:41.120
+only consider two compounds: soft and medium.
+We’re even going to ignore knowing the exact
+
+00:00:41.120 --> 00:00:45.840
+time of things in seconds. Instead, let’s&nbsp;
+say that every lap the soft tyre takes
+
+00:00:45.840 --> 00:00:49.920
+three units of time. Each block of time we&nbsp;
+can represent with a little red block here.
+
+00:00:49.920 --> 00:00:56.880
+So, lap one, take 3 units of time. After 5 laps&nbsp;
+on softs, it’s taken 15 units of time and so on.
+
+00:00:56.880 --> 00:01:00.400
+The medium, let’s say, uses 4&nbsp;
+blocks of time per lap. So it’s
+
+00:01:00.400 --> 00:01:05.440
+slower than the soft tyre by one block every lap.
+Given just that information and knowing we have to
+
+00:01:05.440 --> 00:01:11.280
+use both tyres we can reasonably say for a ten lap&nbsp;
+race, the fastest strategy is going nine laps on
+
+00:01:11.280 --> 00:01:17.120
+the soft tyres and one lap on the slower mediums.
+So your total time for the race is 27 units on
+
+00:01:17.120 --> 00:01:23.520
+softs plus 4 units on mediums, making 31 time&nbsp;
+units, plus however long it takes to make your
+
+00:01:23.520 --> 00:01:28.080
+pit stop, which we’ll worry about in a moment.
+Now let’s add an extra wrinkle. Let’s say the
+
+00:01:28.080 --> 00:01:32.960
+soft tyres only last 4 laps. Don’t worry about the&nbsp;
+complexities of tyre wear just yet – in this model
+
+00:01:32.960 --> 00:01:38.800
+the soft tyres take 3 time-blocks per lap every&nbsp;
+lap, but after 4 laps they just die, so you can’t
+
+00:01:38.800 --> 00:01:43.360
+use them for more than 4 laps. Mediums, let’s&nbsp;
+just say last all ten laps. Keeping it simple.
+
+00:01:43.360 --> 00:01:47.360
+So you can run on soft tyres for 4 laps,&nbsp;
+make a pitstop and then run mediums for
+
+00:01:47.360 --> 00:01:52.640
+6 laps. That means your first 4 laps on softs&nbsp;
+take a time of 12, your 6 laps on the mediums
+
+00:01:52.640 --> 00:01:59.040
+take a time of 24, giving a total race time&nbsp;
+of 36 plus however long a pit stop takes.
+
+00:01:59.040 --> 00:02:03.680
+If you went a bit shorter on the softs – say only&nbsp;
+three laps – how would that effect the race time?
+
+00:02:03.680 --> 00:02:08.960
+Well the soft stint would take 9 blocks of time&nbsp;
+and the medium stint would take 28 blocks or time,
+
+00:02:08.960 --> 00:02:14.160
+totally 37 time units, plus your&nbsp;
+pitstop. So a little bit longer.
+
+00:02:14.160 --> 00:02:16.960
+Hopefully, even though this is&nbsp;
+really pared down right now you can
+
+00:02:16.960 --> 00:02:22.240
+see the basic structure of building a strategy.
+OK, so let’s go one step further. We know those
+
+00:02:22.240 --> 00:02:27.520
+softs are significantly faster. If we COULD run&nbsp;
+them for 9 laps, we know that’s 5 blocks of time
+
+00:02:27.520 --> 00:02:33.920
+faster than the fastest one stop. But we can’t,&nbsp;
+because they die. But we could spend 8 laps on
+
+00:02:33.920 --> 00:02:37.990
+softs if we did two pitstops instead of one…
+Let’s map it out. 4 laps on softs, pitstop,
+
+00:02:37.990 --> 00:02:44.320
+another 4 laps on softs, pitstop, then&nbsp;
+finish the race with two laps on mediums.
+
+00:02:44.320 --> 00:02:48.400
+In lap time alone, that’s a total&nbsp;
+of 12 + 12 + 8 blocks of time,
+
+00:02:48.400 --> 00:02:54.720
+coming to 32 for the whole race but now you’ve&nbsp;
+got to consider TWO pitstops, not just one.
+
+00:02:54.720 --> 00:02:58.400
+So is this two stop faster than this&nbsp;
+one stop? It depends on how long a
+
+00:02:58.400 --> 00:03:02.480
+pitstop takes. And we can do a bit of quick&nbsp;
+algebra to figure out the crossover point.
+
+00:03:02.480 --> 00:03:08.160
+The one-stop takes 36 plus a pitstop, the&nbsp;
+two-stop takes 32 plus two pitstops so if
+
+00:03:08.160 --> 00:03:12.800
+they were equal to each other in time we can just&nbsp;
+take 32 off both sides, take a pitstop off both
+
+00:03:12.800 --> 00:03:19.360
+sides and see clearly that both strategies take&nbsp;
+the same time if a pitstop takes 4 units of time.
+
+00:03:19.360 --> 00:03:22.720
+If a pitstop is longer than&nbsp;
+4, a one-stop is quicker. If
+
+00:03:22.720 --> 00:03:27.360
+it’s shorter than 4, the two-stop is quicker.
+Now, I’m going to reiterate this is just a tiny
+
+00:03:27.360 --> 00:03:31.280
+simplified model which is why the numbers&nbsp;
+are so exaggerated and we’re asking if a
+
+00:03:31.280 --> 00:03:35.200
+pitstop takes as long as an entire lap time.
+But to choose which strategy to implement in
+
+00:03:35.200 --> 00:03:38.000
+the race, you need to know how&nbsp;
+long a pitstop will take you.
+
+00:03:38.000 --> 00:03:42.480
+The time it will cost you to make a pitstop&nbsp;
+is called the ‘pit delta’ as delta is the
+
+00:03:42.480 --> 00:03:46.000
+greek letter used in equations to denote&nbsp;
+‘difference’. You’ll hear the word ‘delta’
+
+00:03:46.000 --> 00:03:51.120
+a lot in F1 speak when talking about differences&nbsp;
+in values like speed or time or what have you.
+
+00:03:51.120 --> 00:03:56.480
+So the pit delta is calculated by taking the&nbsp;
+total time spent within the entire pit road
+
+00:03:56.480 --> 00:04:01.360
+and subtracting the entire time spent driving&nbsp;
+the normal track. And you’ll probably take this
+
+00:04:01.360 --> 00:04:05.520
+from pit entry to probably the first braking&nbsp;
+point after rejoining as that’s when your speed
+
+00:04:05.520 --> 00:04:10.080
+likely first re-matches a normal racing lap.
+This varies from track to track, of course
+
+00:04:10.080 --> 00:04:15.680
+with pitlane speeds, track speeds and how many&nbsp;
+corners the pit road cuts. To give some examples:
+
+00:04:16.320 --> 00:04:19.840
+Monza is quite simple in that the entire&nbsp;
+pitlane in-and-out is down the main straight,
+
+00:04:19.840 --> 00:04:25.120
+but it’s a very fast straight. I timed race speed&nbsp;
+cars going from here to here in around 16 seconds,
+
+00:04:25.120 --> 00:04:28.480
+but through the pits, with a stop, it&nbsp;
+takes around 38 seconds. So that’s a
+
+00:04:28.480 --> 00:04:33.600
+delta of around 22 seconds – quite large.
+Monaco, however, is a slow speed circuit
+
+00:04:33.600 --> 00:04:36.800
+and the entry and exit slightly cut&nbsp;
+the first and last corners. Here,
+
+00:04:36.800 --> 00:04:41.760
+going at racing speed on track takes 12 and a half&nbsp;
+seconds, where taking a pitstop takes 32 seconds,
+
+00:04:41.760 --> 00:04:45.680
+leaving a delta of about 19.5 seconds.
+Silverstone is one of the weirder ones.
+
+00:04:45.680 --> 00:04:49.360
+The entry actually cuts a large section at&nbsp;
+the end of the circuit but the speed limit
+
+00:04:49.360 --> 00:04:54.320
+is pretty low to compensate. There’s&nbsp;
+a 23 second delta here by my watch.
+
+00:04:54.320 --> 00:04:58.640
+I should say I did these times watching footage&nbsp;
+with a stopwatch so they’re not precise, I’m just
+
+00:04:58.640 --> 00:05:02.800
+giving examples of variation strategists have to&nbsp;
+account for. And they will measure the difference
+
+00:05:02.800 --> 00:05:08.320
+over an entire lap, not just this section.
+Let’s head back to our little one-stop strategy
+
+00:05:08.320 --> 00:05:12.080
+again and ask ourselves a question.&nbsp;
+Is there any reason to do soft first,
+
+00:05:12.080 --> 00:05:17.120
+then medium. Or can we do medium, then soft?
+Well there are benefits and drawbacks to both.
+
+00:05:17.120 --> 00:05:21.920
+One obvious benefit is softer tyres tend to be&nbsp;
+grippy and racy immediately so will help you
+
+00:05:21.920 --> 00:05:26.720
+gain or defend position off the grid. Claiming&nbsp;
+track position early on is really important as
+
+00:05:26.720 --> 00:05:30.800
+overtaking is not necessarily guaranteed so&nbsp;
+the launch off the start and into the first
+
+00:05:30.800 --> 00:05:35.680
+lap might well set up the rest of your race.
+The problem that you might find strapping softs
+
+00:05:35.680 --> 00:05:39.360
+on up front is that they’ll wear out more&nbsp;
+quickly with a heavier car. Now we haven’t
+
+00:05:39.360 --> 00:05:43.360
+factored fuel into this model yet but for&nbsp;
+now let’s just consider that fuel is heavy
+
+00:05:43.360 --> 00:05:47.280
+and will get used up over the course of the race.
+This means that the car is heaviest at the start
+
+00:05:47.280 --> 00:05:51.680
+of the race and will require more work from&nbsp;
+the tyres. More work means the softs will wear
+
+00:05:51.680 --> 00:05:56.400
+out faster, so will not last as long as if you&nbsp;
+used them at the end when the car is lighter.
+
+00:05:56.400 --> 00:06:02.560
+So maybe using softs first will only give you 3&nbsp;
+laps in our 10- lap model, whereas going mediums
+
+00:06:02.560 --> 00:06:06.800
+first will give you 4 laps of softs if used&nbsp;
+at the end. You just have to account for the
+
+00:06:06.800 --> 00:06:11.360
+fact that you might lose places off the line.
+But, okay, let’s talk about tyre degradation.
+
+00:06:11.360 --> 00:06:14.560
+We haven’t really factored it into our model&nbsp;
+yet – I just told you the soft tyres died
+
+00:06:14.560 --> 00:06:19.040
+after 4 laps. Let’s go one step further.
+Tyre degradation can be affected by many
+
+00:06:19.040 --> 00:06:21.760
+things – track temperature, the&nbsp;
+abrasiveness of the track surface,
+
+00:06:21.760 --> 00:06:26.960
+how many fast corners there are – stuff like that.
+For our purposes here, let’s keep things simple,
+
+00:06:26.960 --> 00:06:31.120
+but increase our model race to 20 laps to&nbsp;
+see some of the effects we’re going to add.
+
+00:06:31.120 --> 00:06:35.840
+Let’s say the soft tyre is at normal strength&nbsp;
+for 3 laps, so each lap is 3 blocks of time.
+
+00:06:35.840 --> 00:06:41.520
+But after that each lap gets 1 block longer&nbsp;
+for every two laps. So the behaviour will look
+
+00:06:41.520 --> 00:06:46.560
+something like this. See how on lap 10, the&nbsp;
+lap now takes 7 blocks of time, way more than
+
+00:06:46.560 --> 00:06:51.120
+the 3-block lap times when the tyre was fresh.
+For mediums, let’s say they stay strong for 5
+
+00:06:51.120 --> 00:06:56.560
+laps, then gain a block of time every 3 further&nbsp;
+laps they go, so their tyre degradation pattern
+
+00:06:56.560 --> 00:06:59.440
+looks like this lap-on-lap.
+So compared to the softs,
+
+00:06:59.440 --> 00:07:04.560
+the mediums start off slower but last longer and&nbsp;
+take longer to degrade. This means by lap 10,
+
+00:07:04.560 --> 00:07:09.680
+the mediums are actually the faster tyre,&nbsp;
+taking 6 blocks of time to the softs’ 7.
+
+00:07:09.680 --> 00:07:13.440
+Let’s say we want to look at potential one-stop&nbsp;
+strategies again over a 20 lap race with this
+
+00:07:13.440 --> 00:07:17.440
+knowledge of how the compounds degrade. It doesn’t&nbsp;
+matter what order we do the stints in for this and
+
+00:07:17.440 --> 00:07:22.400
+say softs go first before switching to mediums.
+This line here marks where we take out pitstop,
+
+00:07:22.400 --> 00:07:26.640
+so we can see our soft stint on the left and&nbsp;
+the total time it takes us and the medium stint
+
+00:07:26.640 --> 00:07:31.120
+on the right and the total time that takes. We&nbsp;
+can see the changes as we move back and forth.
+
+00:07:31.120 --> 00:07:35.840
+So if we did 4 laps on the softs and 16 on the&nbsp;
+mediums, the soft stint takes 13 blocks of time,
+
+00:07:35.840 --> 00:07:41.440
+the medium stint takes 90 blocks on&nbsp;
+time giving a race time total of 103.
+
+00:07:41.440 --> 00:07:46.160
+And from playing with this model we can see the&nbsp;
+ideal strategy here is 9 laps on the soft and 11
+
+00:07:46.160 --> 00:07:52.240
+laps on the medium, minimising our total time to&nbsp;
+just 93 time units. Plus the pitstop, of course.
+
+00:07:52.240 --> 00:07:55.520
+This is great! We made a little model, we&nbsp;
+adjusted it to find the minimum overall
+
+00:07:55.520 --> 00:08:01.200
+race time and now this will be our strategy. Maybe&nbsp;
+we’ll even call it something fruity like “Plan A”
+
+00:08:01.200 --> 00:08:05.680
+But is this the best we can do? We don’t&nbsp;
+have to do just ONE pitstop. What about two
+
+00:08:05.680 --> 00:08:10.720
+pitstops? Now we can spend more time on the&nbsp;
+softs before they collapse. Is this better?
+
+00:08:10.720 --> 00:08:13.840
+While there were 19 ways of doing a&nbsp;
+one-stop, there are 90 different ways
+
+00:08:13.840 --> 00:08:17.760
+of doing a soft-soft-medium two-stop over 20&nbsp;
+laps so I’m not going to go through them all
+
+00:08:17.760 --> 00:08:21.920
+here but using the tyre degradation patterns&nbsp;
+we’ve laid out there are actually four ways
+
+00:08:21.920 --> 00:08:25.280
+to get a minimum two-stop time,&nbsp;
+which I’ll just display for you,
+
+00:08:25.280 --> 00:08:28.160
+rather than read them all out.
+Remember, the big numbers are
+
+00:08:28.160 --> 00:08:33.280
+how much time each stint takes. This&nbsp;
+here shows how many laps each stint is.
+
+00:08:33.280 --> 00:08:38.960
+Each of them takes just 79 blocks of time in total&nbsp;
+but this time you have to add TWO pitstops in,
+
+00:08:38.960 --> 00:08:42.480
+so again it will depend on the pit delta&nbsp;
+whether a two stop is better than a one.
+
+00:08:42.480 --> 00:08:45.920
+And once again, with a little bit of simple&nbsp;
+algebra – same as before – we can say that
+
+00:08:45.920 --> 00:08:50.400
+a two stop is quicker in this model if&nbsp;
+the pit delta is under 13 blocks of time.
+
+00:08:50.400 --> 00:08:54.080
+I stress, this is a super simplified model&nbsp;
+but this is the kind of things that’s going on
+
+00:08:54.080 --> 00:08:58.240
+when calculating a race strategy but with more&nbsp;
+complex models of tyre wear and all the things
+
+00:08:58.240 --> 00:09:02.000
+we’re talking about layered on each other,&nbsp;
+so in real life they’ll be comparing a huge
+
+00:09:02.000 --> 00:09:06.160
+number of scenarios against each other, not&nbsp;
+just the 90 I did with my little blocks here.
+
+00:09:06.160 --> 00:09:10.000
+But let’s get rid of tyre wear again and think&nbsp;
+about fuel again for a second. Because this is
+
+00:09:10.000 --> 00:09:14.640
+something you have to layer into your times.
+The car starts full of fuel, right? You can’t
+
+00:09:14.640 --> 00:09:18.720
+refuel so it’s starting with about 70 kg&nbsp;
+of fuel which depletes to almost nothing
+
+00:09:18.720 --> 00:09:22.880
+over the course of the race. This means the car&nbsp;
+is a bit slower by weight alone at the start,
+
+00:09:22.880 --> 00:09:28.080
+and gets faster and more nimble as time goes on.
+This will affect the pure lap times on each tyre,
+
+00:09:28.080 --> 00:09:32.320
+but also the driveability of the car, which is&nbsp;
+absolutely something I can’t model with these
+
+00:09:32.320 --> 00:09:36.720
+little blocks but does come into determining which&nbsp;
+tyre might be best for which phase of the race.
+
+00:09:36.720 --> 00:09:39.600
+But if we were going to factor in the&nbsp;
+weight-saving benefits of using up fuel
+
+00:09:39.600 --> 00:09:43.520
+into our times we might add a little diagonal&nbsp;
+snip like this or something to show the car
+
+00:09:43.520 --> 00:09:50.080
+potentially becoming a little faster. Again, the&nbsp;
+real models are much more data driven and complex.
+
+00:09:50.080 --> 00:09:53.760
+Strategists will also likely underfuel the&nbsp;
+car a little bit for these weight-gaining
+
+00:09:53.760 --> 00:09:57.760
+time saves and ask the driver to do some&nbsp;
+nursing mid-race to balance this out.
+
+00:09:57.760 --> 00:10:01.520
+So, okay, we’ve made these lovely simplified&nbsp;
+models and worked out the fastest way to do
+
+00:10:01.520 --> 00:10:04.320
+20 laps in our fictional world we’ve&nbsp;
+built. But we haven’t accounted for
+
+00:10:04.320 --> 00:10:08.560
+something very important – other cars.
+Sure, the model says you can do a lap
+
+00:10:08.560 --> 00:10:12.880
+time of 3 time-blocks per lap, but not if you’re&nbsp;
+stuck behind a car doing 4 time-blocks per lap.
+
+00:10:12.880 --> 00:10:16.160
+Every lap you’re stuck behind this joker&nbsp;
+you’re adding a block of extra time to your
+
+00:10:16.160 --> 00:10:20.160
+race and the strategy is going out the window.
+So you have to be able to adapt. And that’s
+
+00:10:20.160 --> 00:10:24.800
+where the plans B, C and D come on. You have&nbsp;
+to imagine scenarios where you shift from the
+
+00:10:24.800 --> 00:10:30.400
+paper-perfect strategy to something else.
+In this case, if you can’t overtake,
+
+00:10:30.400 --> 00:10:35.600
+what you’d ideally like is some clean air. Take&nbsp;
+a pitstop and make hay with fresh tyres so go
+
+00:10:35.600 --> 00:10:40.480
+as fast as you’re able to without being held up.
+This is where strategists check where everyone is,
+
+00:10:40.480 --> 00:10:45.360
+timing-wise. If this circle represents a full&nbsp;
+lap – say 100 seconds – with all the cars
+
+00:10:45.360 --> 00:10:51.520
+going around, and a pit delta is 20 seconds, then&nbsp;
+taking a pit stop is going to drop you out here.
+
+00:10:51.520 --> 00:10:55.840
+At the moment, this is right behind three cars&nbsp;
+who look to be in a fight. That’s not good news
+
+00:10:55.840 --> 00:11:00.400
+and won’t allow you to push on new tyres. You&nbsp;
+probably should wait for a better opportunity.
+
+00:11:00.400 --> 00:11:04.560
+A few laps later you’ve pulled a few seconds&nbsp;
+over these squabbling cars and are predicted
+
+00:11:04.560 --> 00:11:08.880
+to come out of the pits ahead of them by&nbsp;
+this diagram. It’s time to pull the pin.
+
+00:11:08.880 --> 00:11:12.000
+When watching the race it’s good to know&nbsp;
+the pit delta of the track we’re at so you
+
+00:11:12.000 --> 00:11:16.320
+can look at the timing tower and work out where&nbsp;
+someone will fall back to if they stop. In this
+
+00:11:16.320 --> 00:11:21.680
+example we can look at, say, Leclerc and say if&nbsp;
+the pit delta is 20 seconds, he’ll drop back a
+
+00:11:21.680 --> 00:11:28.240
+few seconds behind Verstappen as 15 plus 20 is 35&nbsp;
+and Verstappen is 32 seconds behind the leader.
+
+00:11:28.240 --> 00:11:31.040
+This is why I prefer the Leader&nbsp;
+timings to the Interval ones as it’s
+
+00:11:31.040 --> 00:11:34.400
+easier to do quick maths like that.
+So, yeah you might have to react quickly
+
+00:11:34.400 --> 00:11:38.480
+and adapt your strategy on the fly if you can’t&nbsp;
+progress beyond the car in front, if the tyres
+
+00:11:38.480 --> 00:11:42.240
+are behaving differently than expected or&nbsp;
+if you’re holding out for a Safety Car.
+
+00:11:42.240 --> 00:11:46.400
+Taking a pitstop under a Safety Car can be&nbsp;
+crucial as you can save so much time and
+
+00:11:46.400 --> 00:11:50.960
+potentially jump several positions in the order.
+The reason safety cars and virtual safety cars
+
+00:11:50.960 --> 00:11:54.640
+offer such cheap pit stops comes back to&nbsp;
+this little calculation we did before in
+
+00:11:54.640 --> 00:11:58.880
+how long it takes to get from pit entry to&nbsp;
+pit exit on track and through the pit roads.
+
+00:11:58.880 --> 00:12:03.680
+Let’s go back to Monaco again with our stopwatch.&nbsp;
+We know at full speed the cars on track take 12.5
+
+00:12:03.680 --> 00:12:08.480
+seconds to get from pit entry to pit exit and&nbsp;
+32 to do the same journey through the pit lane.
+
+00:12:08.480 --> 00:12:12.720
+With the virtual safety car deployed that&nbsp;
+same journey out on track takes about 18
+
+00:12:12.720 --> 00:12:17.120
+seconds so you only lose 14 seconds instead&nbsp;
+of 19.5 seconds. And with the full Safety
+
+00:12:17.120 --> 00:12:22.320
+Car you could lose only 11 or 12 seconds.
+Some tracks or situations (like rain) come
+
+00:12:22.320 --> 00:12:27.200
+with a higher risk of safety car deployment than&nbsp;
+others. If the risk is high, it might be worth
+
+00:12:27.200 --> 00:12:31.840
+extending the stint you’re on in the hope that a&nbsp;
+safety car is pulled and you can take advantage.
+
+00:12:31.840 --> 00:12:35.840
+How much time you decide to sacrifice by&nbsp;
+continuing on degrading tyres is a matter
+
+00:12:35.840 --> 00:12:41.520
+of risk/reward balance and somewhat calculated&nbsp;
+live with telemetry from the tyres and feedback
+
+00:12:41.520 --> 00:12:46.080
+on the driver on how they’re managing them.
+And then we come to weather. We all know rain
+
+00:12:46.080 --> 00:12:49.920
+makes the track slower and requires using&nbsp;
+wet-weather tyres instead of slicks, but the
+
+00:12:49.920 --> 00:12:54.960
+problem with rain is that it’s not consistent.
+The strategy computer won’t just have one wet
+
+00:12:54.960 --> 00:12:58.800
+track model because rain can be heavy or&nbsp;
+light, it can affect different parts of
+
+00:12:58.800 --> 00:13:03.120
+the track as it moves across the landscape.&nbsp;
+Puddles can form and dry up in different ways
+
+00:13:03.120 --> 00:13:07.760
+depending on track topology and how&nbsp;
+warm it is. It’s a complicated mess.
+
+00:13:07.760 --> 00:13:11.360
+You’ve also got to account for how well your&nbsp;
+driver can manage changeable conditions. If
+
+00:13:11.360 --> 00:13:15.040
+they’ve got the skill to manage dry&nbsp;
+tyres on a damp track, you might not
+
+00:13:15.040 --> 00:13:19.200
+change tyres if it looks like it might be a&nbsp;
+passing light shower. Save yourself a stop.
+
+00:13:19.200 --> 00:13:24.320
+If we were to be simple about things we might draw&nbsp;
+a graph like this showing, let’s say, soft tyres,
+
+00:13:24.320 --> 00:13:29.280
+intermediates and full wets as the track gets&nbsp;
+increasingly wet. I stress again, this is not
+
+00:13:29.280 --> 00:13:33.600
+data-driven, it’s a very simplified shape.
+As you can see, the soft tyres are great
+
+00:13:33.600 --> 00:13:38.320
+until it's slightly wet and then they just&nbsp;
+become catastrophically slow very quickly.
+
+00:13:38.320 --> 00:13:42.560
+The lower the line, the faster the laptime,&nbsp;
+so we see the inters quickly take over as the
+
+00:13:42.560 --> 00:13:46.960
+faster tyre as the standing water increases.&nbsp;
+The reason they fail if it’s too dry is they
+
+00:13:46.960 --> 00:13:50.960
+simply overheat from all the tread movement.
+And if it gets really wet, the full wets become
+
+00:13:50.960 --> 00:13:54.960
+the fastest tyre as they can clear the most water,&nbsp;
+but – let’s be honest – the race will be stopped
+
+00:13:54.960 --> 00:13:59.280
+before they get to use those tyres. It’s amazing&nbsp;
+they keep bringing them to races at this point.
+
+00:13:59.280 --> 00:14:03.440
+And finally it’s worth taking a quick look at&nbsp;
+a strategy offset. Two competing drivers may
+
+00:14:03.440 --> 00:14:07.680
+be on vaguely similar strategies – say,&nbsp;
+a soft, then a medium – but one may pull
+
+00:14:07.680 --> 00:14:11.760
+the trigger a couple of laps early in the hope&nbsp;
+of getting some quick times in on new rubber.
+
+00:14:11.760 --> 00:14:16.800
+We saw this earlier in the video with trying&nbsp;
+to slot into a gap of fresh air. The aim is
+
+00:14:16.800 --> 00:14:21.360
+that over the laps before their rival pits,&nbsp;
+the early stopping driver will be fast enough
+
+00:14:21.360 --> 00:14:26.640
+to move into this pit delta so their rival&nbsp;
+comes out behind them. This is an undercut.
+
+00:14:26.640 --> 00:14:31.040
+The later-stopping driver may end up behind their&nbsp;
+rival through the stops but they are now on the
+
+00:14:31.040 --> 00:14:36.320
+fresher, FASTER tyre. In theory, they could&nbsp;
+get position back if they are able to overtake.
+
+00:14:36.320 --> 00:14:40.640
+To really accentuate this pace difference, the&nbsp;
+later stopping car (having realised they are
+
+00:14:40.640 --> 00:14:45.760
+to be undercut) may extend their stint even&nbsp;
+longer so that when they pit their tyres will
+
+00:14:45.760 --> 00:14:50.480
+be MUCH faster than the early stopping rival.
+The balance is they will have lost MORE time
+
+00:14:50.480 --> 00:14:55.200
+by waiting to stop and they’ll now have to&nbsp;
+try to catch and pass on the fresh rubber.
+
+00:14:55.200 --> 00:15:00.080
+This is overcutting and tends to be trickier,&nbsp;
+especially on an overtaking-unfriendly track.
+
+00:15:00.080 --> 00:15:04.000
+So that’s your basics on visualising strategy. I&nbsp;
+hope it gave something to put in your head when
+
+00:15:04.000 --> 00:15:27.120
+watching races or, at the very least, you enjoyed&nbsp;
+watching coloured squares move around. Good bye.
+

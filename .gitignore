@@ -1,0 +1,23 @@
+# Données lourdes ou régénérables : copie complète sur Google Drive (Mon Drive/F1STRAT)
+*.pdf
+*.mp4
+*.m4a
+*.sqlite
+Data_Biblio/4_donnees/meteo_open_meteo/brut_*/
+Data_Biblio/4_donnees/openf1_2023_2025/brut/
+
+# Code à venir (jeu TypeScript, calibration Python)
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.parquet
+calibration/.cache/
+calibration/inputs/external/
+
+# Système et éditeurs
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

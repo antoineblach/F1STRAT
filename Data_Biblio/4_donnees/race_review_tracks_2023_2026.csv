@@ -1,0 +1,27 @@
+circuit;country_code;interruptions_avg;interruptions_races;overtakes_avg;overtakes_races;rain_rate_pct;rain_races
+Melbourne;AU;4.0;4;33.2;4;25;4
+Sepang;BH;3.0;1;57.0;1;;
+Interlagos;BR;2.7;3;40.3;3;67;3
+Silverstone;GB;2.5;4;34.5;4;50;4
+Zandvoort;NL;2.5;4;44.8;4;33;3
+Lusail;QA;2.0;3;38.7;3;0;3
+Montreal;CA;2.0;4;31.2;4;50;4
+Las Vegas;US;1.7;3;48.7;3;0;3
+Mexico City;MX;1.7;3;54.3;3;0;3
+Miami;US;1.5;4;42.8;4;50;4
+Spielberg;AT;1.5;4;45.2;4;0;4
+Shanghai;CN;1.3;3;47.0;3;0;3
+Baku;AZ;1.2;4;33.0;4;0;3
+Monaco;MC;1.2;4;8.8;4;25;4
+Imola;IT;1.0;2;45.0;2;0;2
+Jeddah;SA;1.0;3;30.3;3;0;3
+Madrid;ES;1.0;1;11.0;1;;
+Marina Bay;SG;1.0;4;34.8;4;0;3
+Spa-Francorchamps;BE;1.0;4;41.2;4;50;4
+Suzuka;JP;1.0;4;40.5;4;0;4
+Barcelona;ES;0.8;4;63.5;4;25;4
+Monza;IT;0.8;4;46.8;4;0;3
+Austin;US;0.7;3;44.7;3;0;3
+Sakhir;BH;0.7;3;60.3;3;0;3
+Yas Island;AE;0.3;3;62.0;3;0;3
+Budapest;HU;0.2;4;53.0;4;0;4

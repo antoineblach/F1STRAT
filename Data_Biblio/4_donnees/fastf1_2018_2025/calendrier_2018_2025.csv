@@ -1,0 +1,174 @@
+saison;manche;date;gp;grand_prix_id;circuit_id;trace_id;tours_prevus;longueur_km;distance_km
+2018;1;2018-03-25;Australian Grand Prix;australia;melbourne;melbourne-1;58;5.303;307.574
+2018;2;2018-04-08;Bahrain Grand Prix;bahrain;bahrain;bahrain-1;57;5.412;308.238
+2018;3;2018-04-15;Chinese Grand Prix;china;shanghai;shanghai-1;56;5.451;305.066
+2018;4;2018-04-29;Azerbaijan Grand Prix;azerbaijan;baku;baku-1;51;6.003;306.049
+2018;5;2018-05-13;Spanish Grand Prix;spain;catalunya;catalunya-4;66;4.655;307.104
+2018;6;2018-05-27;Monaco Grand Prix;monaco;monaco;monaco-6;78;3.337;260.286
+2018;7;2018-06-10;Canadian Grand Prix;canada;montreal;montreal-6;68;4.361;296.548
+2018;8;2018-06-24;French Grand Prix;france;paul-ricard;paul-ricard-3;53;5.842;309.690
+2018;9;2018-07-01;Austrian Grand Prix;austria;spielberg;spielberg-3;71;4.318;306.452
+2018;10;2018-07-08;British Grand Prix;great-britain;silverstone;silverstone-8;52;5.891;306.198
+2018;11;2018-07-22;German Grand Prix;germany;hockenheimring;hockenheimring-4;67;4.574;306.458
+2018;12;2018-07-29;Hungarian Grand Prix;hungary;hungaroring;hungaroring-3;70;4.381;306.630
+2018;13;2018-08-26;Belgian Grand Prix;belgium;spa-francorchamps;spa-francorchamps-4;44;7.004;308.052
+2018;14;2018-09-02;Italian Grand Prix;italy;monza;monza-7;53;5.793;306.720
+2018;15;2018-09-16;Singapore Grand Prix;singapore;marina-bay;marina-bay-3;61;5.063;308.706
+2018;16;2018-09-30;Russian Grand Prix;russia;sirius;sirius-1;53;5.848;309.745
+2018;17;2018-10-07;Japanese Grand Prix;japan;suzuka;suzuka-2;53;5.807;307.471
+2018;18;2018-10-21;United States Grand Prix;united-states;austin;austin-1;56;5.513;308.405
+2018;19;2018-10-28;Mexican Grand Prix;mexico;mexico-city;mexico-city-3;71;4.304;305.354
+2018;20;2018-11-11;Brazilian Grand Prix;brazil;interlagos;interlagos-2;71;4.309;305.909
+2018;21;2018-11-25;Abu Dhabi Grand Prix;abu-dhabi;yas-marina;yas-marina-1;55;5.554;305.355
+2019;1;2019-03-17;Australian Grand Prix;australia;melbourne;melbourne-1;58;5.303;307.574
+2019;2;2019-03-31;Bahrain Grand Prix;bahrain;bahrain;bahrain-1;57;5.412;308.238
+2019;3;2019-04-14;Chinese Grand Prix;china;shanghai;shanghai-1;56;5.451;305.066
+2019;4;2019-04-28;Azerbaijan Grand Prix;azerbaijan;baku;baku-1;51;6.003;306.049
+2019;5;2019-05-12;Spanish Grand Prix;spain;catalunya;catalunya-4;66;4.655;307.104
+2019;6;2019-05-26;Monaco Grand Prix;monaco;monaco;monaco-6;78;3.337;260.286
+2019;7;2019-06-09;Canadian Grand Prix;canada;montreal;montreal-6;70;4.361;305.270
+2019;8;2019-06-23;French Grand Prix;france;paul-ricard;paul-ricard-3;53;5.842;309.690
+2019;9;2019-06-30;Austrian Grand Prix;austria;spielberg;spielberg-3;71;4.318;306.452
+2019;10;2019-07-14;British Grand Prix;great-britain;silverstone;silverstone-8;52;5.891;306.198
+2019;11;2019-07-28;German Grand Prix;germany;hockenheimring;hockenheimring-4;64;4.574;292.736
+2019;12;2019-08-04;Hungarian Grand Prix;hungary;hungaroring;hungaroring-3;70;4.381;306.630
+2019;13;2019-09-01;Belgian Grand Prix;belgium;spa-francorchamps;spa-francorchamps-4;44;7.004;308.052
+2019;14;2019-09-08;Italian Grand Prix;italy;monza;monza-7;53;5.793;306.720
+2019;15;2019-09-22;Singapore Grand Prix;singapore;marina-bay;marina-bay-3;61;5.063;308.706
+2019;16;2019-09-29;Russian Grand Prix;russia;sirius;sirius-1;53;5.848;309.745
+2019;17;2019-10-13;Japanese Grand Prix;japan;suzuka;suzuka-2;52;5.807;301.664
+2019;18;2019-10-27;Mexican Grand Prix;mexico;mexico-city;mexico-city-3;71;4.304;305.354
+2019;19;2019-11-03;United States Grand Prix;united-states;austin;austin-1;56;5.513;308.405
+2019;20;2019-11-17;Brazilian Grand Prix;brazil;interlagos;interlagos-2;71;4.309;305.909
+2019;21;2019-12-01;Abu Dhabi Grand Prix;abu-dhabi;yas-marina;yas-marina-1;55;5.554;305.355
+2020;1;2020-07-05;Austrian Grand Prix;austria;spielberg;spielberg-3;71;4.318;306.452
+2020;2;2020-07-12;Styrian Grand Prix;styria;spielberg;spielberg-3;71;4.318;306.452
+2020;3;2020-07-19;Hungarian Grand Prix;hungary;hungaroring;hungaroring-3;70;4.381;306.630
+2020;4;2020-08-02;British Grand Prix;great-britain;silverstone;silverstone-8;52;5.891;306.198
+2020;5;2020-08-09;70th Anniversary Grand Prix;70th-anniversary;silverstone;silverstone-8;52;5.891;306.198
+2020;6;2020-08-16;Spanish Grand Prix;spain;catalunya;catalunya-4;66;4.655;307.104
+2020;7;2020-08-30;Belgian Grand Prix;belgium;spa-francorchamps;spa-francorchamps-4;44;7.004;308.052
+2020;8;2020-09-06;Italian Grand Prix;italy;monza;monza-7;53;5.793;306.720
+2020;9;2020-09-13;Tuscan Grand Prix;tuscany;mugello;mugello-1;59;5.245;309.455
+2020;10;2020-09-27;Russian Grand Prix;russia;sirius;sirius-1;53;5.848;309.745
+2020;11;2020-10-11;Eifel Grand Prix;eifel;nurburgring;nurburgring-4;60;5.148;308.623
+2020;12;2020-10-25;Portuguese Grand Prix;portugal;portimao;portimao-1;66;4.653;306.826
+2020;13;2020-11-01;Emilia Romagna Grand Prix;emilia-romagna;imola;imola-3;63;4.909;309.050
+2020;14;2020-11-15;Turkish Grand Prix;turkey;istanbul;istanbul-1;58;5.338;309.396
+2020;15;2020-11-29;Bahrain Grand Prix;bahrain;bahrain;bahrain-1;57;5.412;308.238
+2020;16;2020-12-06;Sakhir Grand Prix;sakhir;bahrain;bahrain-3;87;3.543;307.995
+2020;17;2020-12-13;Abu Dhabi Grand Prix;abu-dhabi;yas-marina;yas-marina-1;55;5.554;305.355
+2021;1;2021-03-28;Bahrain Grand Prix;bahrain;bahrain;bahrain-1;56;5.412;302.826
+2021;2;2021-04-18;Emilia Romagna Grand Prix;emilia-romagna;imola;imola-3;63;4.909;309.050
+2021;3;2021-05-02;Portuguese Grand Prix;portugal;portimao;portimao-1;66;4.653;306.826
+2021;4;2021-05-09;Spanish Grand Prix;spain;catalunya;catalunya-5;66;4.675;308.424
+2021;5;2021-05-23;Monaco Grand Prix;monaco;monaco;monaco-6;78;3.337;260.286
+2021;6;2021-06-06;Azerbaijan Grand Prix;azerbaijan;baku;baku-1;51;6.003;306.049
+2021;7;2021-06-20;French Grand Prix;france;paul-ricard;paul-ricard-3;53;5.842;309.690
+2021;8;2021-06-27;Styrian Grand Prix;styria;spielberg;spielberg-3;71;4.318;306.452
+2021;9;2021-07-04;Austrian Grand Prix;austria;spielberg;spielberg-3;71;4.318;306.452
+2021;10;2021-07-18;British Grand Prix;great-britain;silverstone;silverstone-8;52;5.891;306.198
+2021;11;2021-08-01;Hungarian Grand Prix;hungary;hungaroring;hungaroring-3;70;4.381;306.630
+2021;12;2021-08-29;Belgian Grand Prix;belgium;spa-francorchamps;spa-francorchamps-4;1;7.004;6.880
+2021;13;2021-09-05;Dutch Grand Prix;netherlands;zandvoort;zandvoort-5;72;4.259;306.648
+2021;14;2021-09-12;Italian Grand Prix;italy;monza;monza-7;53;5.793;306.720
+2021;15;2021-09-26;Russian Grand Prix;russia;sirius;sirius-1;53;5.848;309.745
+2021;16;2021-10-03;Turkish Grand Prix;turkey;istanbul;istanbul-1;58;5.338;309.396
+2021;17;2021-10-24;United States Grand Prix;united-states;austin;austin-1;56;5.513;308.405
+2021;18;2021-11-07;Mexico City Grand Prix;mexico;mexico-city;mexico-city-3;71;4.304;305.354
+2021;19;2021-11-14;São Paulo Grand Prix;sao-paulo;interlagos;interlagos-2;71;4.309;305.909
+2021;20;2021-11-21;Qatar Grand Prix;qatar;lusail;lusail-1;57;5.380;306.660
+2021;21;2021-12-05;Saudi Arabian Grand Prix;saudi-arabia;jeddah;jeddah-1;50;6.174;308.450
+2021;22;2021-12-12;Abu Dhabi Grand Prix;abu-dhabi;yas-marina;yas-marina-2;58;5.281;306.183
+2022;1;2022-03-20;Bahrain Grand Prix;bahrain;bahrain;bahrain-1;57;5.412;308.238
+2022;2;2022-03-27;Saudi Arabian Grand Prix;saudi-arabia;jeddah;jeddah-1;50;6.174;308.450
+2022;3;2022-04-10;Australian Grand Prix;australia;melbourne;melbourne-2;58;5.278;306.124
+2022;4;2022-04-24;Emilia Romagna Grand Prix;emilia-romagna;imola;imola-3;63;4.909;309.049
+2022;5;2022-05-08;Miami Grand Prix;miami;miami;miami-1;57;5.412;308.326
+2022;6;2022-05-22;Spanish Grand Prix;spain;catalunya;catalunya-5;66;4.675;308.424
+2022;7;2022-05-29;Monaco Grand Prix;monaco;monaco;monaco-6;64;3.337;213.568
+2022;8;2022-06-12;Azerbaijan Grand Prix;azerbaijan;baku;baku-1;51;6.003;306.049
+2022;9;2022-06-19;Canadian Grand Prix;canada;montreal;montreal-6;70;4.361;305.270
+2022;10;2022-07-03;British Grand Prix;great-britain;silverstone;silverstone-8;52;5.891;306.198
+2022;11;2022-07-10;Austrian Grand Prix;austria;spielberg;spielberg-3;71;4.318;306.452
+2022;12;2022-07-24;French Grand Prix;france;paul-ricard;paul-ricard-3;53;5.842;309.690
+2022;13;2022-07-31;Hungarian Grand Prix;hungary;hungaroring;hungaroring-3;70;4.381;306.630
+2022;14;2022-08-28;Belgian Grand Prix;belgium;spa-francorchamps;spa-francorchamps-4;44;7.004;308.052
+2022;15;2022-09-04;Dutch Grand Prix;netherlands;zandvoort;zandvoort-5;72;4.259;306.587
+2022;16;2022-09-11;Italian Grand Prix;italy;monza;monza-7;53;5.793;306.720
+2022;17;2022-10-02;Singapore Grand Prix;singapore;marina-bay;marina-bay-3;59;5.063;298.580
+2022;18;2022-10-09;Japanese Grand Prix;japan;suzuka;suzuka-2;28;5.807;162.296
+2022;19;2022-10-23;United States Grand Prix;united-states;austin;austin-1;56;5.513;308.405
+2022;20;2022-10-30;Mexico City Grand Prix;mexico;mexico-city;mexico-city-3;71;4.304;305.354
+2022;21;2022-11-13;São Paulo Grand Prix;sao-paulo;interlagos;interlagos-2;71;4.309;305.879
+2022;22;2022-11-20;Abu Dhabi Grand Prix;abu-dhabi;yas-marina;yas-marina-2;58;5.281;306.183
+2023;1;2023-03-05;Bahrain Grand Prix;bahrain;bahrain;bahrain-1;57;5.412;308.238
+2023;2;2023-03-19;Saudi Arabian Grand Prix;saudi-arabia;jeddah;jeddah-1;50;6.174;308.450
+2023;3;2023-04-02;Australian Grand Prix;australia;melbourne;melbourne-2;58;5.278;306.124
+2023;4;2023-04-30;Azerbaijan Grand Prix;azerbaijan;baku;baku-1;51;6.003;306.049
+2023;5;2023-05-07;Miami Grand Prix;miami;miami;miami-1;57;5.412;308.326
+2023;6;2023-05-28;Monaco Grand Prix;monaco;monaco;monaco-6;78;3.337;260.286
+2023;7;2023-06-04;Spanish Grand Prix;spain;catalunya;catalunya-6;66;4.657;307.236
+2023;8;2023-06-18;Canadian Grand Prix;canada;montreal;montreal-6;70;4.361;305.270
+2023;9;2023-07-02;Austrian Grand Prix;austria;spielberg;spielberg-3;71;4.318;306.452
+2023;10;2023-07-09;British Grand Prix;great-britain;silverstone;silverstone-8;52;5.891;306.198
+2023;11;2023-07-23;Hungarian Grand Prix;hungary;hungaroring;hungaroring-3;70;4.381;306.630
+2023;12;2023-07-30;Belgian Grand Prix;belgium;spa-francorchamps;spa-francorchamps-4;44;7.004;308.052
+2023;13;2023-08-27;Dutch Grand Prix;netherlands;zandvoort;zandvoort-5;72;4.259;306.587
+2023;14;2023-09-03;Italian Grand Prix;italy;monza;monza-7;51;5.793;295.134
+2023;15;2023-09-17;Singapore Grand Prix;singapore;marina-bay;marina-bay-4;62;4.940;306.143
+2023;16;2023-09-24;Japanese Grand Prix;japan;suzuka;suzuka-2;53;5.807;307.471
+2023;17;2023-10-08;Qatar Grand Prix;qatar;lusail;lusail-1;57;5.419;308.611
+2023;18;2023-10-22;United States Grand Prix;united-states;austin;austin-1;56;5.513;308.405
+2023;19;2023-10-29;Mexico City Grand Prix;mexico;mexico-city;mexico-city-3;71;4.304;305.354
+2023;20;2023-11-05;São Paulo Grand Prix;sao-paulo;interlagos;interlagos-2;71;4.309;305.879
+2023;21;2023-11-19;Las Vegas Grand Prix;las-vegas;las-vegas;las-vegas-1;50;6.201;309.958
+2023;22;2023-11-26;Abu Dhabi Grand Prix;abu-dhabi;yas-marina;yas-marina-2;58;5.281;306.183
+2024;1;2024-03-02;Bahrain Grand Prix;bahrain;bahrain;bahrain-1;57;5.412;308.238
+2024;2;2024-03-09;Saudi Arabian Grand Prix;saudi-arabia;jeddah;jeddah-1;50;6.174;308.450
+2024;3;2024-03-24;Australian Grand Prix;australia;melbourne;melbourne-2;58;5.278;306.124
+2024;4;2024-04-07;Japanese Grand Prix;japan;suzuka;suzuka-2;53;5.807;307.471
+2024;5;2024-04-21;Chinese Grand Prix;china;shanghai;shanghai-1;56;5.451;305.066
+2024;6;2024-05-05;Miami Grand Prix;miami;miami;miami-1;57;5.412;308.326
+2024;7;2024-05-19;Emilia Romagna Grand Prix;emilia-romagna;imola;imola-3;63;4.909;309.049
+2024;8;2024-05-26;Monaco Grand Prix;monaco;monaco;monaco-6;78;3.337;260.286
+2024;9;2024-06-09;Canadian Grand Prix;canada;montreal;montreal-6;70;4.361;305.270
+2024;10;2024-06-23;Spanish Grand Prix;spain;catalunya;catalunya-6;66;4.657;307.236
+2024;11;2024-06-30;Austrian Grand Prix;austria;spielberg;spielberg-3;71;4.318;306.452
+2024;12;2024-07-07;British Grand Prix;great-britain;silverstone;silverstone-8;52;5.891;306.198
+2024;13;2024-07-21;Hungarian Grand Prix;hungary;hungaroring;hungaroring-3;70;4.381;306.630
+2024;14;2024-07-28;Belgian Grand Prix;belgium;spa-francorchamps;spa-francorchamps-4;44;7.004;308.052
+2024;15;2024-08-25;Dutch Grand Prix;netherlands;zandvoort;zandvoort-5;72;4.259;306.587
+2024;16;2024-09-01;Italian Grand Prix;italy;monza;monza-7;53;5.793;306.720
+2024;17;2024-09-15;Azerbaijan Grand Prix;azerbaijan;baku;baku-1;51;6.003;306.049
+2024;18;2024-09-22;Singapore Grand Prix;singapore;marina-bay;marina-bay-4;62;4.940;306.143
+2024;19;2024-10-20;United States Grand Prix;united-states;austin;austin-1;56;5.513;308.405
+2024;20;2024-10-27;Mexico City Grand Prix;mexico;mexico-city;mexico-city-3;71;4.304;305.354
+2024;21;2024-11-03;São Paulo Grand Prix;sao-paulo;interlagos;interlagos-2;69;4.309;297.261
+2024;22;2024-11-24;Las Vegas Grand Prix;las-vegas;las-vegas;las-vegas-1;50;6.201;309.958
+2024;23;2024-12-01;Qatar Grand Prix;qatar;lusail;lusail-1;57;5.419;308.611
+2024;24;2024-12-08;Abu Dhabi Grand Prix;abu-dhabi;yas-marina;yas-marina-2;58;5.281;306.183
+2025;1;2025-03-16;Australian Grand Prix;australia;melbourne;melbourne-2;57;5.278;300.846
+2025;2;2025-03-23;Chinese Grand Prix;china;shanghai;shanghai-1;56;5.451;305.066
+2025;3;2025-04-06;Japanese Grand Prix;japan;suzuka;suzuka-2;53;5.807;307.471
+2025;4;2025-04-13;Bahrain Grand Prix;bahrain;bahrain;bahrain-1;57;5.412;308.238
+2025;5;2025-04-20;Saudi Arabian Grand Prix;saudi-arabia;jeddah;jeddah-1;50;6.174;308.450
+2025;6;2025-05-04;Miami Grand Prix;miami;miami;miami-1;57;5.412;308.326
+2025;7;2025-05-18;Emilia Romagna Grand Prix;emilia-romagna;imola;imola-3;63;4.909;309.049
+2025;8;2025-05-25;Monaco Grand Prix;monaco;monaco;monaco-6;78;3.337;260.286
+2025;9;2025-06-01;Spanish Grand Prix;spain;catalunya;catalunya-6;66;4.657;307.236
+2025;10;2025-06-15;Canadian Grand Prix;canada;montreal;montreal-6;70;4.361;305.270
+2025;11;2025-06-29;Austrian Grand Prix;austria;spielberg;spielberg-3;70;4.326;302.692
+2025;12;2025-07-06;British Grand Prix;great-britain;silverstone;silverstone-8;52;5.891;306.198
+2025;13;2025-07-27;Belgian Grand Prix;belgium;spa-francorchamps;spa-francorchamps-4;44;7.004;308.052
+2025;14;2025-08-03;Hungarian Grand Prix;hungary;hungaroring;hungaroring-3;70;4.381;306.630
+2025;15;2025-08-31;Dutch Grand Prix;netherlands;zandvoort;zandvoort-5;72;4.259;306.587
+2025;16;2025-09-07;Italian Grand Prix;italy;monza;monza-7;53;5.793;306.720
+2025;17;2025-09-21;Azerbaijan Grand Prix;azerbaijan;baku;baku-1;51;6.003;306.049
+2025;18;2025-10-05;Singapore Grand Prix;singapore;marina-bay;marina-bay-4;62;4.927;305.337
+2025;19;2025-10-19;United States Grand Prix;united-states;austin;austin-1;56;5.513;308.405
+2025;20;2025-10-26;Mexico City Grand Prix;mexico;mexico-city;mexico-city-3;71;4.304;305.354
+2025;21;2025-11-09;São Paulo Grand Prix;sao-paulo;interlagos;interlagos-2;71;4.309;305.879
+2025;22;2025-11-23;Las Vegas Grand Prix;las-vegas;las-vegas;las-vegas-1;50;6.201;309.958
+2025;23;2025-11-30;Qatar Grand Prix;qatar;lusail;lusail-1;57;5.419;308.611
+2025;24;2025-12-07;Abu Dhabi Grand Prix;abu-dhabi;yas-marina;yas-marina-2;58;5.281;306.183
